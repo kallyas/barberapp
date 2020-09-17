@@ -2,7 +2,7 @@
   "name": "barberapp",
   "version": "1.0.0",
   "description": "Barber shop App",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
